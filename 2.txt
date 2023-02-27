@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Applicationasize</string>
+    <string name="main_text">Сти́вен Пол (Стив) Джобс ( 24 февраля 1955) — американский предприниматель, изобретатель и промышленный дизайнер, получивший широкое признание в качестве пионера эры информационных технологий. Один из основателей, председатель совета директоров и CEO корпорации Apple. Один из основателей и CEO киностудии Pixar.!</string>
+    <string name="main1_text">Выберите комфортный размер</string>
+    <string name="button_text">+</string>
+    <string name="button1_text">-</string>
+    <string name="toast_text">Размер увеличен</string>
+    <string name="toast1_text">Размер уменьшен</string>
+
+</resources>
